@@ -56,11 +56,11 @@
                 ]
             },
             {
-                "name": "Sehiyye TV",
+                "name": "Sehiyye TV HD",
                 "variables": [
                     {
                         "name": "CHANNEL_NAME",
-                        "value": "sthv"
+                        "value": "shtv"
                     }
                 ]
             },

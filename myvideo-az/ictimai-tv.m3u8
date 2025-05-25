@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://149.255.152.199/ictimai.m3u8?bandwidth=2096&e=1748248511&playlistlength=5&shift=0&sid=coder_52&token=5753593f502e1629b18e489ab54d1473&user=37076

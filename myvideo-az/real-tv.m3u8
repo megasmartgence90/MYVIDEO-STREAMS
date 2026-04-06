@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://149.255.152.199/real.m3u8?bandwidth=2096&e=1775531170&playlistlength=5&shift=0&sid=coder_79&token=f79c3b43e263063c9e9fca8e88a0fbb3&user=37076
